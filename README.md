@@ -1,4 +1,3 @@
-### Hi there 👋
 <h3 align="center">👋 Hi there! I'm Conrad Sachweh</h3>
 <p align="center">
   <a href="https://conrad-sachweh.de">Website</a> •
