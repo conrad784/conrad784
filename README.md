@@ -1,5 +1,11 @@
 ### Hi there 👋
+<h3 align="center">👋 Hi there! I'm Conrad Sachweh</h3>
+<p align="center">
+  <a href="https://conrad-sachweh.de">Website</a> •
+  <a href="https://twitter.com/conrad784">Twitter</a>
+</p>
 
+---
 <!--
 **conrad784/conrad784** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +17,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
